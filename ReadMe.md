@@ -58,7 +58,7 @@ Now tuning max_depth, criterion, n_estimators and ccp_alpha.
 ![](images/ccp_alpha.png)
 - Decresing graph 
 
-#### Final Plot
+#### Final Plotxs
 For deterministic results , we plotted the accuracies with respect to value and chose *5* as it was one of the peaks.
 ![](images/random_state.png)
 
