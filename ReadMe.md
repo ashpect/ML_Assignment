@@ -16,8 +16,8 @@ We aim at classifying diseases using various ml models and understanding their a
 
 ## Solution
 
-Code Links :
-Collab Link : https://colab.research.google.com/drive/1eKQM0SZsOxBqrC-PDjT8aHvKRn_k6tVs?usp=sharing
+Code Links : <br>
+Collab Link : https://colab.research.google.com/drive/1eKQM0SZsOxBqrC-PDjT8aHvKRn_k6tVs?usp=sharing <br>
 Github Link : https://github.com/ashpect/ML_Assignment/blob/main/test.ipynb
 
 ### Supervised ML models used
