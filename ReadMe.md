@@ -61,4 +61,4 @@ Decresing graph
 For deterministic results , we plotted the accuracies with respect to value and chose *5* as it was one of the peaks.
 ![](images/random_state.png)
 
-**I was able to obtain a classification accuracy of *100%* after tuning the parameters**
+#### We achieved a classification accuracy of *100%* after tuning the parameters ####
