@@ -47,17 +47,18 @@ Now tuning max_depth, criterion, n_estimators and ccp_alpha.
 
 1. Tuning ```max_depth```
 ![](images/max_depth.png)
-From the graph, the optimum value is 3                    
+- From the graph, the optimum value is 3                    
 2. Tuning ```criterion```
 ![](images/criterion.png)
-Entropy and log_loss were better than gini.
+- Entropy and log_loss were better than gini.
 3. Tuning ```n_estimators```
 ![](images/n_estimators.png)
-Peaked at value 13 U {15 to 23} 
+- Peaked at value 13 U {15 to 23} 
 4. Tuning ```cp_alpha```
 ![](images/ccp_alpha.png)
-Decresing graph 
+- Decresing graph 
 
+#### Final Plot
 For deterministic results , we plotted the accuracies with respect to value and chose *5* as it was one of the peaks.
 ![](images/random_state.png)
 
